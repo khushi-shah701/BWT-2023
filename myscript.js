@@ -10,7 +10,7 @@
 <p>This example uses a full web URL to link to "myScript.js".</p>
 <p>(myFunction is stored in "myScript.js")</p>
 
-<script src="https://www.w3schools.com/js/myScript.js"></script>
+<script src="./myScript.js"></script>
 
 </body>
 </html>
